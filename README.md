@@ -1,4 +1,4 @@
-# Tunify-
+# Tunify
 (A protoype Web-based media player)
 
 **(What is used/where)-**
